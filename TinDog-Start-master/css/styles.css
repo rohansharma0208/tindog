@@ -1,0 +1,172 @@
+body{
+
+
+}
+
+
+
+#title
+{
+  background-color: #ff4c6b;
+    color: white;
+    padding: 3% 15% 10%;
+
+}
+
+/* Navigation Bar */
+.navbar{
+  padding: 0 0 5rem 0;
+}
+
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+text-decoration: none;
+font-weight: bold;
+color: white;
+font-size: 3rem;
+}
+
+.nav-item{
+  padding: 0 1rem;
+  font-size: 1.25rem;
+}
+
+
+/* Title */
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  padding-top: 3rem;
+}
+
+
+/* DownloadButtons */
+.down-btn{
+  margin: 5% 3% 3% 0;
+}
+
+.title-img{
+  width: 60%;
+  transform: rotate(22deg);
+  position: absolute;
+  z-index: 0;
+  right: 25%;
+
+}
+
+
+
+/* Features section */
+#features{
+  background-color: white;
+  padding: 7% 15%;
+  color: #8f8f8f;
+  position: relative;
+  z-index: 1;
+
+}
+
+.f-img{
+  font-size: 4rem;
+  padding-bottom: 1rem;
+  color: #ef8172;
+}
+
+.f-img:hover{
+  color: #ff4c68;
+}
+
+.feature-title{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 0 2rem;
+}
+
+
+#testimonials{
+  background-color: #ef8172;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 1rem 1rem 50px 1rem;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#pricing{
+  text-align: center;
+  margin-top: 8%;
+}
+
+.card-cont{
+  margin-top: 5%;
+}
+
+.card-header{
+  background-color: #ff4c6b;
+  color:white;
+  border-radius: 10%;
+}
+
+.signup{
+  border-color: #ff4c6b;
+  background-color: white;
+}
+
+.signup:hover{
+  background-color: #ff4c6b;
+  color: white;
+}
+
+
+#cta{
+  margin: 5% 2%;
+  text-align: center;
+}
+
+.g-play{
+  border-color: #ff4c6b;
+  color: black;
+}
+.g-play:hover{
+  background-color: #ff4c6b;
+  color: white;
+
+}
+
+#footer{
+  text-align: center;
+}
